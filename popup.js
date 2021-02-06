@@ -11,7 +11,7 @@ btn1.addEventListener("click", function () {
         btn1.innerText = "Pause"
     }
 })
-if (btn.innerText == "Pause"){
+if (btn1.innerText == "Pause"){
 skip()}
 
 function skip() {
